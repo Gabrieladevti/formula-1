@@ -41,10 +41,6 @@ $ cd node-blue-boilerplate
 $ npm install
 ```
 
-# Credits
-
-icons by [Pino Lamanna][dribble-icon]
-
 [typescript]: https://www.typescriptlang.org/
 [typescript-5-4]: https://www.typescriptlang.org/
 [ts-badge]: https://img.shields.io/badge/TypeScript-5.4-blue.svg
